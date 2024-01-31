@@ -2,8 +2,10 @@
 <h1 align="center">Hi 👋, I'm RACHID ZAHRANI</h1>
 <h3 align="center">A dedicated developer skilled in both front-end and back-end development.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachidzahrani&label=Profile%20views&color=0e75b6&style=flat" alt="rachidzahrani" /> </p>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rachidzahrani&label=Profile%20views&color=0e75b6&style=flat" alt="rachidzahrani" /> </p>
+<script type="module" src="https://unpkg.com/@splinetool/viewer@1.0.41/build/spline-viewer.js"></script>
+<spline-viewer url="https://prod.spline.design/QmMnoNuElDgzb54U/scene.splinecode"></spline-viewer>
 <p align="left"> <a href="https://twitter.com/rachid71338891" target="blank"><img src="https://img.shields.io/twitter/follow/rachid71338891?logo=twitter&style=for-the-badge" alt="rachid71338891" /></a> </p>
 
 - 🔭 I’m currently working on **MERN PROJECTS**
