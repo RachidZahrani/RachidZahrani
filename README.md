@@ -44,17 +44,16 @@
 
 <br/>
  
- <!--
+<hr/>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 ![snake gif](https://github.com/RachidZahrani/RachidZahrani/blob/output/github-contribution-grid-snake.gif)  
-    
   <br/><br/><br/>
-</div>  
+</div>
 
 <hr/>
--->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
