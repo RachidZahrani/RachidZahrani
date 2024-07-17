@@ -49,8 +49,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-![snake gif](https://github.com/RachidZahrani/RachidZahrani/blob/output/github-contribution-grid-snake.gif)  
-  <br/><br/><br/>
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/RachidZahrani/RachidZahrani/output/github-contribution-grid-snake.svg" /> 
+    <br/><br/><br/>
 </div>
 
 <hr/>
