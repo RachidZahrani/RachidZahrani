@@ -111,7 +111,7 @@
 <div align="center">
     <br>
     <a href="https://git.io/streak-stats">
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=RachidZahrani&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500&fire=0099ff&ring=0099ff&sideNums=0099ff&currStreakLabel=0099ff&theme=dark" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RachidZahrani&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
     </a>
 </div>
  
