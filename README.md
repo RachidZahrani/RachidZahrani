@@ -77,7 +77,7 @@
         <img alt="LinkedIn" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1000&pause=100000000000000&color=0A66C2&center=true&vCenter=true&repeat=true&width=200&height=45&lines=🤝+LinkedIn" />
     </a>
     &nbsp;
-    <a href="https://rachidzahrani.vercel.app" target="_blank">
+    <a href="https://zahrani.vercel.app" target="_blank">
         <img alt="Portfolio" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1000&pause=100000000000000&color=9B4993&center=true&vCenter=true&repeat=true&width=200&height=45&lines=🌐+Portfolio" />
     </a>
 </div> 
