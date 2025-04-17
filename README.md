@@ -46,9 +46,10 @@
 </p>
 
 <br/>
-<!-- Connect Section -->
  
- <div align="center">
+ <!-- Connect Section -->
+
+<div align="center">
     <img width="100%" height="60" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&text=&fontSize=100" />
 </div>
 
@@ -58,36 +59,28 @@
 </h2>
 </div>
 
-<div align="center">
-    <!-- Animated Cards -->
-    <a href="mailto:rachid.zahrani.rz@gmail.com">
-        <img height="160" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/awesome-computer.gif" alt="coding" />
-    </a>
-</div>
-
 <br>
 
 <div align="center">
-    <!-- Fancy Animated Buttons -->
+    <!-- Static Buttons Without Animation -->
     <a href="mailto:rachid.zahrani.rz@gmail.com" target="_blank">
-        <img alt="Email" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1000&pause=100000000000000&color=E34F26&center=true&vCenter=true&repeat=true&width=200&height=45&lines=📧+Email+Me" />
+        <img alt="Email" width="200" height="45" src="https://img.shields.io/badge/Email Me-E34F26?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/rachid-zahrani/" target="_blank">
-        <img alt="LinkedIn" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1000&pause=100000000000000&color=0A66C2&center=true&vCenter=true&repeat=true&width=200&height=45&lines=🤝+LinkedIn" />
+        <img alt="LinkedIn" width="200" height="45" src="https://img.shields.io/badge/ LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     &nbsp;
     <a href="https://zahrani.vercel.app" target="_blank">
-        <img alt="Portfolio" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1000&pause=100000000000000&color=9B4993&center=true&vCenter=true&repeat=true&width=200&height=45&lines=🌐+Portfolio" />
+        <img alt="Portfolio" width="200" height="45" src="https://img.shields.io/badge/💻 Portfolio-9B4993?style=for-the-badge" />
     </a>
 </div> 
-
-</div>
 
 <div align="center">
     <img width="100%" height="60" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&text=&fontSize=90" />
 </div>
-
+</div>
+ 
 <!-- GitHub Stats Section -->
 <div align="center">
    
